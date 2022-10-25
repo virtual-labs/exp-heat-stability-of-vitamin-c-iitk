@@ -2,38 +2,48 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Titrant used in estimation of vitamin C",  ///// Write the question inside double quotes
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "2,6-Dichlorophenolindophenol",                  ///// Write the option 1 inside double quotes
+        "b": "Hydrochloric acid",                  ///// Write the option 2 inside double quotes
+        "c": "Metaphosphoric acid",                  ///// Write the option 3 inside double quotes
+        "d": "Acetic acid"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "a"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Dye factor stands for",  ///// Write the question inside double quotes
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "µg of ascorbic acid per ml of the dye",                  ///// Write the option 1 inside double quotes
+        "b": "mg of ascorbic acid per ml of the dye",                  ///// Write the option 2 inside double quotes
+        "c": "g of ascorbic acid per ml of the dye",                  ///// Write the option 3 inside double quotes
+        "d": "kg of ascorbic acid per ml of the dye" 
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "The color of end point of titration through DCPIP dye in the estimation of vitamin C is",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Blue",                  ///// Write the option 1 inside double quotes
+        "b": "Pink",                  ///// Write the option 2 inside double quotes
+        "c": "Purple",                  ///// Write the option 3 inside double quotes
+        "d": "Yellow"   
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-    }
-  ]
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "4. Amount of vitamin C content in the heat treated juice will be lesser than fresh juice",
+      "answers": {
+        "a": "True",                  ///// Write the option 1 inside double quotes
+        "b": "False",   
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+      ]
 }

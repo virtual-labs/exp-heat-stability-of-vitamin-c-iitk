@@ -2,38 +2,62 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Vitamin C is also known as",  ///// Write the question inside double quotes
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Mallic acid",                  ///// Write the option 1 inside double quotes
+        "b": "Ascorbic acid",                  ///// Write the option 2 inside double quotes
+        "c": "Tartaric acid",                  ///// Write the option 3 inside double quotes
+        "d": "Citric acid"   
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In the presence of oxygen, ascorbic acid is degraded to form",  ///// Write the question inside double quotes
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Monocation",                  ///// Write the option 1 inside double quotes
+        "b": "Dehydroascorbic acid",                  ///// Write the option 2 inside double quotes
+        "c": "Peroxides",                  ///// Write the option 3 inside double quotes
+        "d": "Ascorbate"                   ///// Write the option 4 inside double quotes
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "In the presence of oxygen, ascorbic acid is degraded to form",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Monocation",                  ///// Write the option 1 inside double quotes
+        "b": "Dehydroascorbic acid",                  ///// Write the option 2 inside double quotes
+        "c": "Peroxides",                  ///// Write the option 3 inside double quotes
+        "d": "Ascorbate"
       },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "The color of DCPIP dye is",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Black",                  ///// Write the option 1 inside double quotes
+        "b": "Blue",                  ///// Write the option 2 inside double quotes
+        "c": "Red",                  ///// Write the option 3 inside double quotes
+        "d": "Yellow"   
+      },
+      
+      "correctAnswer": "b"
+      
+    },
+    {
+      "question": "The loss of ascorbic acid in fruits cause ………………of fruits",  ///// Write the question inside double quotes
+      "answers": {
+        "a": "Non-enzymetic browning",                  ///// Write the option 1 inside double quotes
+        "b": "Ripening",                  ///// Write the option 2 inside double quotes
+        "c": "Shrinkage",                  ///// Write the option 3 inside double quotes
+        "d": "No effect" 
+      },
+      
+      "correctAnswer": "b"
+      
     }
   ]
 }
