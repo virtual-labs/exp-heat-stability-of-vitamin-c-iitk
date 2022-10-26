@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Titrant used in estimation of vitamin C",  
+      "question": "1. Titrant used in estimation of vitamin C",  
       "answers": {
         "a": "2,6-Dichlorophenolindophenol",                  
         "b": "Hydrochloric acid",                 
@@ -12,7 +12,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "Dye factor stands for",  
+      "question": "2. Dye factor stands for",  
       "answers": {
         "a": "µg of ascorbic acid per ml of the dye",                
         "b": "mg of ascorbic acid per ml of the dye",                 
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "The color of end point of titration through DCPIP dye in the estimation of vitamin C is",  
+      "question": "3. The color of end point of titration through DCPIP dye in the estimation of vitamin C is",  
       "answers": {
         "a": "Blue",               
         "b": "Pink",                  
@@ -39,11 +39,11 @@
       "question": "4. Amount of vitamin C content in the heat treated juice will be lesser than fresh juice",
       "answers": {
         "a": "True",                 
-        "b": "False",   
+        "b": "False"   
       },
       
       "correctAnswer": "b"
       
-    },
+    }
       ]
 }
