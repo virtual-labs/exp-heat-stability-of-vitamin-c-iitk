@@ -12,7 +12,7 @@
       "correctAnswer": "a"
     },
     {
-      "question": "Dye factor stands for",  ///// Write the question inside double quotes
+      "question": "Dye factor stands for",  
       "answers": {
         "a": "µg of ascorbic acid per ml of the dye",                
         "b": "mg of ascorbic acid per ml of the dye",                 
