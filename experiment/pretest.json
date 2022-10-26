@@ -39,11 +39,11 @@
       "question": "4. Amount of vitamin C content in the heat treated juice will be lesser than fresh juice",
       "answers": {
         "a": "True",                 
-        "b": "False",   
+        "b": "False"   
       },
       
       "correctAnswer": "b"
       
-    },
+    }
       ]
 }
