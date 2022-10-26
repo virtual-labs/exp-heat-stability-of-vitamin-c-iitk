@@ -2,11 +2,11 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Titrant used in estimation of vitamin C",  ///// Write the question inside double quotes
+      "question": "Titrant used in estimation of vitamin C",  
       "answers": {
-        "a": "2,6-Dichlorophenolindophenol",                  ///// Write the option 1 inside double quotes
-        "b": "Hydrochloric acid",                  ///// Write the option 2 inside double quotes
-        "c": "Metaphosphoric acid",                  ///// Write the option 3 inside double quotes
+        "a": "2,6-Dichlorophenolindophenol",                  
+        "b": "Hydrochloric acid",                 
+        "c": "Metaphosphoric acid",                 
         "d": "Acetic acid"
       },
       "correctAnswer": "a"
@@ -14,9 +14,9 @@
     {
       "question": "Dye factor stands for",  ///// Write the question inside double quotes
       "answers": {
-        "a": "µg of ascorbic acid per ml of the dye",                  ///// Write the option 1 inside double quotes
-        "b": "mg of ascorbic acid per ml of the dye",                  ///// Write the option 2 inside double quotes
-        "c": "g of ascorbic acid per ml of the dye",                  ///// Write the option 3 inside double quotes
+        "a": "µg of ascorbic acid per ml of the dye",                
+        "b": "mg of ascorbic acid per ml of the dye",                 
+        "c": "g of ascorbic acid per ml of the dye",                  
         "d": "kg of ascorbic acid per ml of the dye" 
       },
       
@@ -24,11 +24,11 @@
       
     },
     {
-      "question": "The color of end point of titration through DCPIP dye in the estimation of vitamin C is",  ///// Write the question inside double quotes
+      "question": "The color of end point of titration through DCPIP dye in the estimation of vitamin C is",  
       "answers": {
-        "a": "Blue",                  ///// Write the option 1 inside double quotes
-        "b": "Pink",                  ///// Write the option 2 inside double quotes
-        "c": "Purple",                  ///// Write the option 3 inside double quotes
+        "a": "Blue",               
+        "b": "Pink",                  
+        "c": "Purple",                 
         "d": "Yellow"   
       },
       
@@ -38,7 +38,7 @@
     {
       "question": "4. Amount of vitamin C content in the heat treated juice will be lesser than fresh juice",
       "answers": {
-        "a": "True",                  ///// Write the option 1 inside double quotes
+        "a": "True",                 
         "b": "False",   
       },
       
