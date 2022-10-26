@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "Vitamin C is also known as",  
+      "question": "1. Vitamin C is also known as",  
       "answers": {
         "a": "Mallic acid",                  
         "b": "Ascorbic acid",                  
@@ -12,7 +12,7 @@
       "correctAnswer": "b"
     },
     {
-      "question": "In the presence of oxygen, ascorbic acid is degraded to form",  
+      "question": "2. In the presence of oxygen, ascorbic acid is degraded to form",  
       "answers": {
         "a": "Monocation",                 
         "b": "Dehydroascorbic acid",                  
@@ -24,7 +24,7 @@
       
     },
     {
-      "question": "In the presence of oxygen, ascorbic acid is degraded to form",  
+      "question": "3. In the presence of oxygen, ascorbic acid is degraded to form",  
       "answers": {
         "a": "Monocation",               
         "b": "Dehydroascorbic acid",                  
@@ -36,7 +36,7 @@
       
     },
     {
-      "question": "The color of DCPIP dye is",  
+      "question": "4. The color of DCPIP dye is",  
       "answers": {
         "a": "Black",                 
         "b": "Blue",                  
@@ -48,7 +48,7 @@
       
     },
     {
-      "question": "The loss of ascorbic acid in fruits cause ………………of fruits",  
+      "question": "5. The loss of ascorbic acid in fruits cause ………………of fruits",  
       "answers": {
         "a": "Non-enzymetic browning",                  
         "b": "Ripening",                  
