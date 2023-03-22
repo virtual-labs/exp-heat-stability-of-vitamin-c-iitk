@@ -1,28 +1,55 @@
-## Introduction
+## Introduction (Round 0)
 
-Determination of heat stability of Vitamin C 
-
-<b>Discipline | <b>Food Technology
+<b>Discipline | <b>Food Technology 
 :--|:--|
-<b> Lab | <b> Food Technology Lab
-<b> Experiment|     <b> Determination of heat stability of Vitamin C 
+<b> Lab | <b> FOOD CHEMISTRY LAB
+<b> Experiment|     <b> 1. Determination of heat stability of vitamin C
 
-### About the Experiment 
+<h5> About the Lab : </h5>
 
-Vitamin C is an essential nutrient in the diet, but is easily reduced or destroyed by exposure to heat and oxygen during processing, packaging, and storage of food. The instability of Vitamin C makes it more difficult to ensure an accurate listing of Vitamin C content on the nutrition label. The official method of analysis for Vitamin C determination of juices is the 2, 6-dichloroindophenol titrimetric method. Ascorbic acid reduces the indicator dye to a colorless solution. At the endpoint of titrating an ascorbic acid containing sample with dye, excess unreduced dye is a rose-pink color in the acid solution. The titre value of the dye can be determined using a standard ascorbic acid solution. Food samples in solution then can be titrated with the dye, and the volume for the titration used to calculate the ascorbic acid content. 
+In this lab, the study of analytical procedures for characterizing the properties of foods constituents and their interactions that affects the quality and stability of foods is done. This lab has experiments dealing with the chemical properties of food components and changes they undergo in processing and storage. Study of relationships between the chemical composition of foods and functional, nutritional, and sensory properties are included. The lab techniques commonly used in food research are introduced.
 
-<b>Name of Developers | <b> Prof. Kantesh Balani
+<h5> About the Experiment : </h5>
+
+In this experiment, the study of analytical procedures for determining the effect of different temperatures on vitamin C content of fruits and vegetables Juice is done.
+
+
+<h5> Target Audience : </h5>
+
+UG & PG food technology/science students, faculty members & industry persons
+
+<h5> Course Alignment : </h5>
+
+This lab is aligned with B.Tech./B.Sc., M.Tech./M.Sc., and primary research courses.
+
+<h5> Universities Mapped : </h5>
+
+Dr. A.P.J. Abdul Kalam Technical University, Lucknow
+Harcourt Butler Technical University, Kanpur
+Bundelkhand University, Jhansi 
+NIFTEM, Sonipat
+GJUS&T, Hisar
+SLIET, Longowal
+
+<b>Name of Developer | <b> VIVEK KUMAR
 :--|:--|
-<b> Institute | <b>  IIT Kanpur
-<b> Email id|     <b>  kbalani@iitk.ac.in
-<b> Department |  Materials Science and Engineering
+<b> Institute | <b> Harcourt Butler Technical University, Kanpur
+<b> Email id|     <b> viveksachan99@gmail.com
+<b> Department | Department of  Food Technology
 
-### Contributors List
+#### Mentor Details
+
+<b>Mentored by | <b> Rupali Sharma
+:--|:--|
+<b> Institute | <b> MIET, Meerut
+<b> Email id|     <b> rupali.sharma@miet.ac.in
+<b> Department | Assistant Professor, Department of Pharmaceutical Technology
+
+#### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. Vivek Sachan | Faculty | Food Technology | HBTU Kanpur | viveksachan99@gmail.com
-2 | Pawan Sharma | Student | Food Technology | HBTU Kanpur | pawansharmampec@gmail.com
-3 | Ayush Kumar Shakya  | Student | Food Technology | HBTU Kanpur | ayushkumar121@outlook.com
-4 | Hemant Singh | Student | Food Technology | HBTU Kanpur | singh10hemant99@gmail.com
-5 | Abhishek Mishra | Student | Food Technology | HBTU Kanpur | abhishekmishraoff73@gmail.com
+1 | Pawan Sharma | Student | Food Technology  | Harcourt Butler Technical University, Kanpur | pawansharmampec@gmail.com
+2 | Ayush Kumar Shakya | Student | Information Technology | Harcourt Butler Technical University, Kanpur | ayushkumar121@outlook.com
+3 | Aman Kumar Singh | Student | Food Technology | Harcourt Butler Technical University, Kanpur | amansingh.mrs1234@gmail.com
+4 | Sonakshi Patel | Student | Food Technology | Harcourt Butler Technical University, Kanpur | sonakshipatel92124@gmail.com
