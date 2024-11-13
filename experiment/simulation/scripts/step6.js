@@ -100,6 +100,6 @@ function selectSample(className, id) {
             path: exp11[selectedSample]
         })
          
-        addTask('Step6: Selection of sample')
+        addTask('Step5: Selection of sample')
     }
 }

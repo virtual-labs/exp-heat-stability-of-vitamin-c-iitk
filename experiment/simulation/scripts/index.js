@@ -25,11 +25,43 @@ function toggleSidebar() {
 
 function next() {
     if (curent_step < steps.length - 1) {
-        curent_step++
-        if(!steps[curent_step].classList.contains('step-title'))
-            task_done = false
+        curent_step++;
+        if (!steps[curent_step].classList.contains('step-title')) {
+            task_done = false;
+
+        } 
+        if(curent_step ==6){
+            addTask('step 4: Calculation of Dye factor');
+        }
+        if (curent_step === 14) { // Assuming step-11 is the 12th step (index 11)
+            addTask('step 11: Calculation and Result');
+        } 
+        if (curent_step === 15) { // Assuming step-11 is the 12th step (index 11)
+            addTask('step 12 : Inference');
+        }
+        else if (curent_step === 12) { 
+            // Display step-13
+            document.querySelector('#step-13').classList.add('active');
+        }
+        
+        else {
+            // Add the task heading to the taskslist element
+            const tasksList = document.getElementById('taskslist');
+            if (tasksList) {
+                // Check if the heading already exists to avoid duplicates
+                if (!tasksList.querySelector('.task-heading')) {
+                    const heading = document.createElement('h3');
+                    heading.classList.add('task-heading');
+                    heading.textContent = 'Step 0: Glassware & chemical reagents required ';
+                    tasksList.appendChild(heading);
+                }
+            }
+        }
     }
 }
+
+
+
 
 function previous() {
     if (curent_step > 0) {

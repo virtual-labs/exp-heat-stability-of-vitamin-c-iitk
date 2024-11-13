@@ -24,7 +24,7 @@ function platySegments2() {
             gsap.to('#step-2 .control-2', {opacity: 0})
             gsap.to('#step-2 .control-2', {delay: 6, opacity: 0, onComplete: () => {
                 task_done = true
-                addTask('Step2: Take 5 ml of standard ascorbic acid solution in the conical flask')
+                addTask('Step1: Take 5 ml of standard ascorbic acid solution in the conical flask')
             }})
         }
     }

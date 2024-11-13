@@ -24,7 +24,7 @@ function platySegments3() {
             gsap.to('#step-3 .control-2', {opacity: 0})
             gsap.to('#step-3 .control-2', {delay: 6, onComplete: () => {
                 task_done = true
-                addTask('Step3: Add 5 ml of HPO<sub>3</sub> solution in the conical flask')
+                addTask('Step2: Add 5 ml of HPO<sub>3</sub> solution in the conical flask')
             }})
         }
     }
