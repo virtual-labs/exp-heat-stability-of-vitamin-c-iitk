@@ -32,7 +32,7 @@ function platySegments7() {
             gsap.to('#step-7 .control-4', {opacity: 0})
             gsap.to('#step-7 .control-4', {delay: 12, onComplete: () => {
                 task_done = true
-                addTask('Step7: Take out 50 ml juice in four different conical flasks marked as J1, J2, J3, J4')
+                addTask('Step6: Take out 50 ml juice in four different conical flasks marked as J1, J2, J3, J4')
             }})
         }
     }

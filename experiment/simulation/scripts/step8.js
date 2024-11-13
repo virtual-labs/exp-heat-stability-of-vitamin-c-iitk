@@ -69,7 +69,7 @@ function platySegments8() {
                 delay: 14, onComplete: () => {
                     locked = true
                     task_done = true
-                    addTask('Step8: Heat the J2, J3, J4 sample at 60, 75, 90°C respectively ')
+                    addTask('Step7: Heat the J2, J3, J4 sample at 60, 75, 90°C respectively for 10 mins.')
                 }
             })
 

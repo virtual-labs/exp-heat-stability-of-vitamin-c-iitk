@@ -19,7 +19,7 @@ function platySegments10() {
             }})
         }
         else if (currentSegment10 == 3) {
-            lottie10.playSegments([1120, 1580], true)
+            lottie10.playSegments([1200, 1800], true)
             
             gsap.to('#step-10 .control-3', {opacity: 0})
             gsap.to('#step-10 .control-4', {delay: 13, opacity: 1, onComplete: () => {
@@ -32,7 +32,8 @@ function platySegments10() {
             gsap.to('#step-10 .control-4', {opacity: 0})
             gsap.to('#step-10 .control-4', {delay: 13, onComplete: () => {
                 task_done = true
-                addTask('Step3: Add 5 ml of HPO<sub>3</sub> solution in the conical flask')
+                // addTask('Step3: Add 5 ml of HPO<sub>3</sub> solution in the conical flask')
+                addTask('Step 9: Add 90 ml of HPO<sub>3</sub>  solution in the conical flask')
             }})
         }
     }
