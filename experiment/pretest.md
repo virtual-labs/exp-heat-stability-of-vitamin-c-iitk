@@ -1,28 +1,27 @@
 ## Pre-test
 
-1. Vitamin C is also known as  
-    a) Mallic acid  
-    <b>b) Ascorbic acid</b>  
-    c) Tartaric acid   
-    d) Citric acid  
-  
-2. In the presence of oxygen, ascorbic acid is degraded to form  <br/>
+1. Titrant used in estimation of vitamin C 
 
-    a) Monocation    
-    <b>b) Dehydroascorbic acid</b>  
-    c) Peroxides  
-    d) Ascorbate  
+   <b> a) 2,6-Dichlorophenolindophenol </b><br>
+    b) Hydrochloric acid     
+    c) Metaphosphoric acid    
+    d) Acetic acid 
 
-3. The color of DCPIP dye is 
+2. Dye factor stands for 
 
-    a) Black  
-    <b>b) Blue</b>  
-    c) Red  
-    d) Yellow    
+    <b>a) µg of ascorbic acid per ml of the dye</b>  
+    b) mg of ascorbic acid per ml of the dye  
+    c) g of ascorbic acid per ml of the dye  
+    d) kg of ascorbic acid per ml of the dye  
 
-4. The loss of ascorbic acid in fruits cause ………………of fruits 
+3. The color of end point of titration through DCPIP dye in the estimation of vitamin C is    
 
-    <b>a) Non-enzymetic browning</b>    
-    b) Ripening   
-    c) Shrinkage       
-    d) No effect 
+    a) Blue  
+    <b>b) Pink</b>   
+    c) Purple   
+    d) Yellow   
+
+4. Amount of vitamin C content in the heat treated juice will be lesser than fresh juice 
+
+    <b>a) True</b>     
+    b) False  
