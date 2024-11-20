@@ -90,46 +90,60 @@
 
   const myQuestions = [
     {
-      question: "Titrant used in estimation of vitamin C",  ///// Write the question inside double quotes
+      question: "Vitamin C is also known as",  ///// Write the question inside double quotes
       answers: {
-        a: "2,6-Dichlorophenolindophenol",                  ///// Write the option 1 inside double quotes
-        b: "Hydrochloric acid",                  ///// Write the option 2 inside double quotes
-        c: "Metaphosphoric acid",                  ///// Write the option 3 inside double quotes
-        d: "Acetic acid"                   ///// Write the option 4 inside double quotes
+        a: "Mallic acid",                  ///// Write the option 1 inside double quotes
+        b: "Ascorbic acid",                  ///// Write the option 2 inside double quotes
+        c: "Tartaric acid",                  ///// Write the option 3 inside double quotes
+        d: "Citric acid"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "Dye factor stands for",  ///// Write the question inside double quotes
+      question: "In the presence of oxygen, ascorbic acid is degraded to form",  ///// Write the question inside double quotes
       answers: {
-        a: "µg of ascorbic acid per ml of the dye",                  ///// Write the option 1 inside double quotes
-        b: "mg of ascorbic acid per ml of the dye",                  ///// Write the option 2 inside double quotes
-        c: "g of ascorbic acid per ml of the dye",                  ///// Write the option 3 inside double quotes
-        d: "kg of ascorbic acid per ml of the dye"                   ///// Write the option 4 inside double quotes
+        a: "Monocation",                  ///// Write the option 1 inside double quotes
+        b: "Dehydroascorbic acid",                  ///// Write the option 2 inside double quotes
+        c: "Peroxides",                  ///// Write the option 3 inside double quotes
+        d: "Ascorbate"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
 
     {
-      question: "The color of end point of titration through DCPIP dye in the estimation of vitamin C is",  ///// Write the question inside double quotes
+      question: "In the presence of oxygen, ascorbic acid is degraded to form",  ///// Write the question inside double quotes
       answers: {
-        a: "Blue",                  ///// Write the option 1 inside double quotes
-        b: "Pink",                  ///// Write the option 2 inside double quotes
-        c: "Purple",                  ///// Write the option 3 inside double quotes
+        a: "Monocation",                  ///// Write the option 1 inside double quotes
+        b: "Dehydroascorbic acid",                  ///// Write the option 2 inside double quotes
+        c: "Peroxides",                  ///// Write the option 3 inside double quotes
+        d: "Ascorbate"                   ///// Write the option 4 inside double quotes
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },                                  ///// To add more questions, copy the section below 
+
+    {
+      question: "The color of DCPIP dye is",  ///// Write the question inside double quotes
+      answers: {
+        a: "Black",                  ///// Write the option 1 inside double quotes
+        b: "Blue",                  ///// Write the option 2 inside double quotes
+        c: "Red",                  ///// Write the option 3 inside double quotes
         d: "Yellow"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-
+    
     {
-      question: "Amount of vitamin C content in the heat treated juice will be lesser than fresh juice",  ///// Write the question inside double quotes
+      question: "The loss of ascorbic acid in fruits cause ………………of fruits",  ///// Write the question inside double quotes
       answers: {
-        a: "True",                  ///// Write the option 1 inside double quotes
-        b: "False",                  ///// Write the option 2 inside double quotes
+        a: "Non-enzymetic browning",                  ///// Write the option 1 inside double quotes
+        b: "Ripening",                  ///// Write the option 2 inside double quotes
+        c: "Shrinkage",                  ///// Write the option 3 inside double quotes
+        d: "No effect"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
-    },         
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },     
+
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
         till closing curly braces comma ( }, )
 
