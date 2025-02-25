@@ -109,18 +109,7 @@
         d: "Ascorbate"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
-
-    {
-      question: "In the presence of oxygen, ascorbic acid is degraded to form",  ///// Write the question inside double quotes
-      answers: {
-        a: "Monocation",                  ///// Write the option 1 inside double quotes
-        b: "Dehydroascorbic acid",                  ///// Write the option 2 inside double quotes
-        c: "Peroxides",                  ///// Write the option 3 inside double quotes
-        d: "Ascorbate"                   ///// Write the option 4 inside double quotes
-      },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
-    },                                  ///// To add more questions, copy the section below 
+    },                                  ///// To add more questions, copy the section below                               ///// To add more questions, copy the section below 
 
     {
       question: "The color of DCPIP dye is",  ///// Write the question inside double quotes
