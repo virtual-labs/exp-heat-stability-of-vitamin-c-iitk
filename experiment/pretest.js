@@ -123,14 +123,14 @@
     },                                  ///// To add more questions, copy the section below 
     
     {
-      question: "The loss of ascorbic acid in fruits cause ………………of fruits",  ///// Write the question inside double quotes
+      question: "The loss of ascorbic acid in fruits causes __________ of fruits.",  ///// Write the question inside double quotes
       answers: {
         a: "Non-enzymetic browning",                  ///// Write the option 1 inside double quotes
         b: "Ripening",                  ///// Write the option 2 inside double quotes
         c: "Shrinkage",                  ///// Write the option 3 inside double quotes
-        d: "No effect"                   ///// Write the option 4 inside double quotes
+        d: "Color change"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },     
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
