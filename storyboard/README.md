@@ -1,57 +1,133 @@
-#### Please use the [reference](https://github.com/virtual-labs/ph3-exp-dev-process/blob/main/storyboard/README.org) document to fill this template. Follow the [link](https://github.com/virtual-labs/ph3-exp-dev-process/tree/main/sample/storyboard) to view a sample storyboard document. 
+## Storyboard (Round 2)
 
+Experiment 1: Determination of heat stability of vitamin C 
 
+### 1. Story Outline:
 
-## Storyboard
+This experiment involves first of all standardization of DCPIP dye and then preparing juice sample by extraction and then heating three juice samples and different temperatures  60°C, 75°C and 90°C using hot plate. Then 90 ml of 3% HPO3 solution in each conical flask (fresh & three heated samples) is added. To complete the experiment, titration of the sample is desirable which starts with addition of DCPIP dye to burette and continue till faint pink color appears. After that, volume of titrant used is recorded. Then on the basis of obtained data vitamin C content in terms of ascorbic acid (mg/100 gm) is calculated. Then comparison and analysis of result is done to determine heat stability of vitamin C. 
 
-Delete this line before submission : The core principle of storyboarding is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
+The main objective of this experiment is to determine heat stability of vitamin C. During the operation student will be able to relate and learn new concepts as well as able to experiment with different methods and evaluate vitamin C content in various juice samples. Further based on the results, user will be able to analyze and predict about analyze heat stability of vitamin C. 
 
-Experiment 1: Name of the Experiment
+### 2. Story:
 
-### 1. Story Outline
-
-Describe outline here ( Guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
-
-### 2. Story
-
-Describe the Story introduction here (Guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+First users will get themselves familiar with the experimental set-up and then select the desired standard ascorbic acid solution and DCPIP dye to standardize the dye for its further use. Then user will extract juice using electronic juicer, and make four samples J1, J2, J3 and J4. After this, user will heat the J2, J3, J4 sample at 60°C, 75°C and 90°C, respectively by keeping them on hot plate. Now user will add HPO3 solution in each conical flask. User will fill the burette with standardized DCPIP dye solution and start titration of sample by opening knob of burette. User will observe the color change and once it is faint pink color, user will stop the process by closing knob of burette. User will record the volume of titrant and use it for calculation. After calculation and results, user can analyze the data and predict the heat stability of vitamin C.  
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (Guide : When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+
+In the simulator user will be able to see the virtual prototype of experimental set up resembling the actual experimental set up that is present in real time labs. For standardization of dye set up consists of 5 ml ascorbic acid standard solution 5 ml HPO3. The titration set up consisting DCPIP dye in burette will be used to determine the end point by titrating ascorbic acid standard solution. For juice sample analysis, electronic juicer is used to extract juice and strained with heplp of strainer. 4 different samples which are fresh, 3 samples heated at 60°C, 75°C and 90°C are available. A hot plate is there to heat samples at different temperatures during experiment. The burette setup will be used for the titration process with standardized DCPIP dye and titration is done to reach end point.  
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (Guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. in descriptive))
+
+1. The prime object of this experiment is to determine analyze heat stability of vitamin C. 
+2. User will be able to understand the concept of standardization of dye. 
+3. User will be able to experiment with titration method to estimate vitamin C content in juice samples. 
+4. User will be able to analyze effect of temperature on vitamin C content of juice. 
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in introductory & pedagogy documnets.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+1. User will get familiar with all experimental setups and materials/reagents used. 
+2. For standardization of DCPIP dye, user will take the ascorbic acid standard solution in conical flask and fill the burette with DCPIP dye. 
+3. User will drag the conical flask under burette filled with DCPIP dye and press ‘Open knob’ Tab of the burette. 
+4. Simulator will display the titration process and change in color of sample to faint pink as per steps. 
+5. Once titration is completed, user will press ‘Calculation’ Tab for calculating dye factor. 
+6. Next for analysis of juice sample, user will extract juice using electronic juicer. 
+7. Then, make 4 different juice samples available. This all will be recognized by user as each have naming in the set up as J1, J2, J3 and J4. 
+8. User will heat J2, J3, J4 sample at 60°C, 75°C and 90°C, respectively by keeping on hot plate one by one. 
+9. Then click to add 90 ml of 3% HPO3 solution in each sample conical flask 
+10. User will place the sample conical flask under burette having standardized DCPIP dye and press ‘Open knob’ Tab of the burette. 
+11. Simulator will display the titration process and change in color of sample as per steps. 
+12. 1Once titration is completed, user will press ‘Observation table’ and ‘Result & calculation’ Tab. 
+13. Simulator will provide the result after calculation based on observed data. 
+14. By analyzing result values of vitamin C content, user will be able to know the effect of temperature on vitamin C content of juice samples. 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (Guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Difficulty level: Remember (LO1) 
 
-##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (Guide : while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive)
+1. The loss of ascorbic acid from fruits cause ………………of fruits 
+
+    <b>a) Non-enzymetic browning</b>  
+    b) Ripening   
+    c) Shrinkage       
+    d) No effect 
+
+2. In the presence of oxygen, ascorbic acid is degraded to form 
+
+    a) Monocation     
+    <b>b) Dehydroascorbic acid</b>    
+    c) Peroxides    
+    d) Ascorbate 
+
+Difficulty level: Understand (LO2) 
+
+3. Titrant used in estimation of vitamin C 
+
+    <b>a) Indophenol dye solution</b>     
+    b) Hydrochloric acid     
+    c) Metaphosphoric acid    
+    d) Acetic acid 
+
+
+Difficulty level: Apply (LO3) 
+
+1. DCPIP solution in the titration act as  
+    
+    <b>a) Oxidizing agent</b>   
+    b) Reducing agent  
+    c) Coloring agent  
+    d) Neutralizing agent  
+
+Difficulty level: Analyse (LO4) 
+
+1. Which of the following fruit juice have higher vitamin C content 
+
+    a) Apple juice   
+    b) Mousami juice   
+    c) Lemon juice   
+    <b>d) Amla juice</b> 
+
+
+Difficulty level: Evaluate (LO5) 
+
+1. Which of the following sample have higher vitamin C content 
+
+    <b>a) Fresh juice sample</b>  
+    b) Juice treated at 60°C   
+    c) Juice treated at 75°C  
+    d) Juice treated at 90°C  
 
 ##### 2.6 Conclusion:
-Describe conclusion here : (Guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
+
+User will take approximate 5-7 minutes for understanding the procedure. Then for generating data by the help of simulator will take 8-10 minutes. After onwards for calculating result will take 2-3 minutes. Hence, total time taken for doing experiment will be approximately 15-20 minutes. 
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (Guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
+
+<img src="images/formula1.png" width="500">
+<img src="images/formula2.png" width="500">
 
 
-### 3. Flowchart
-Link to flow chart Here : Store in the  /flowchart folder within pedagogy folder in your repo
-<br>
-(Guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
+### 3. Flowchart 4
+<img src="flowchart/flowchart.png"/>
+<br />
+<br />
 
-### 4. Mindmap
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (Guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
+### 4. Mindmap:
+<img src="mindmap/mindmap.png"/>
+<br />
+<br />
 
-### 5. Storyboard
+### 5. Storyboard :
 
-Link the storyboard (.gif file ) in here :
-(Guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool).
+<img src="storyboard/0.png" width="500">
+<img src="storyboard/1.png" width="500">
+<img src="storyboard/2.png" width="500">
+<img src="storyboard/3.png" width="500">
+<img src="storyboard/4.png" width="500">
+<img src="storyboard/5.png" width="500">
+<img src="storyboard/6.png" width="500">
+<img src="storyboard/7.png" width="500">
+<img src="storyboard/8.png" width="500">
+<img src="storyboard/9.png" width="500">
+<img src="storyboard/10.png" width="500">
+<img src="storyboard/11.png" width="500">
+<img src="storyboard/12.png" width="500">
